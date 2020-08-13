@@ -2,4 +2,5 @@
 
 Original: [dmenu](https://tools.suckless.org/dmenu/)
 
-This repo will only include changes in the `config.h` file, since there are no patches for dmenu.
+This build contains the following patches:
+* [number](https://tools.suckless.org/dmenu/patches/numbers/)
